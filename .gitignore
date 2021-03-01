@@ -1,0 +1,22 @@
+  GNU nano 5.4                                         .gitignore                                         Modified
+node_modules/
+bower_components/
+.tmp
+.sass-cache
+builds/**/images/*
+*.ogg
+*.mp3
+*.mp4
+#*.png
+#*.jpeg
+
+# security / ssl
+*.pem
+*.xxjson
+
+
+
+
+
+
+
